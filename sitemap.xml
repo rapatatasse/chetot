@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://rapatatasse.github.io/chetot/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://rapatatasse.github.io/chetot/img/homepoules.webp</image:loc></image:image>
+    <image:image><image:loc>https://rapatatasse.github.io/chetot/img/homegite.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://rapatatasse.github.io/chetot/oeufs.html</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://rapatatasse.github.io/chetot/img/eleveur.webp</image:loc></image:image>
+    <image:image><image:loc>https://rapatatasse.github.io/chetot/img/batiment.webp</image:loc></image:image>
+    <image:image><image:loc>https://rapatatasse.github.io/chetot/img/parcours.webp</image:loc></image:image>
+    <image:image><image:loc>https://rapatatasse.github.io/chetot/img/tri-oeufs.webp</image:loc></image:image>
+    <image:image><image:loc>https://rapatatasse.github.io/chetot/img/marche-bles-dor.webp</image:loc></image:image>
+    <image:image><image:loc>https://rapatatasse.github.io/chetot/img/marche-oeufs.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://rapatatasse.github.io/chetot/gite.html</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://rapatatasse.github.io/chetot/img/gite-matin.webp</image:loc></image:image>
+    <image:image><image:loc>https://rapatatasse.github.io/chetot/img/gite-vue-1.webp</image:loc></image:image>
+    <image:image><image:loc>https://rapatatasse.github.io/chetot/img/gite-vue-3.webp</image:loc></image:image>
+  </url>
+</urlset>
